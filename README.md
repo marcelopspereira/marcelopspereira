@@ -20,15 +20,20 @@ Here are some ideas to get you started:
 - 👨🏿‍🎓  Tecnólogo em Análise e Desenvolvimento de Sistemas - QI
 - 👨🏿‍💻 ...
 - 💻  ...
-- 
+
+<hr></hr>
+ 
 ### Banco de Dados:
-[<img align="left" alt="oracle" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/oracle.svg"/>][oracle]
-[<img align="left" alt="sqlserver" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/microsoftsqlserver.svg"/>][sqlserver]
+[<img align="left" alt="oracle" width="40px" style="fill: yellow;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/oracle.svg"/>][oracle]
+[<img align="left" alt="sqlserver" width="40px" style="color: green;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/microsoftsqlserver.svg"/>][sqlserver]
 [<img align="left" alt="mysql" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg"/>][mysql]
 [<img align="left" alt="postgresql" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/postgresql.svg"/>][postgresql]
 [<img align="left" alt="mongodb" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mongodb.svg"/>][mongodb]
 [<img align="left" alt="sqlite" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/sqlite.svg"/>][sqlite]<br/>
-<hr/>
+
+<hr></hr>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopspereira&theme=dracula)](https://github.com/jussaragranja/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcelopspereira&show_icons=true&theme=dracula)](https://github.com/jussaragranja/)
 
