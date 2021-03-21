@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **marcelopspereira/marcelopspereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +28,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="postgresql" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/postgresql.svg"/>][postgresql]
 [<img align="left" alt="mongodb" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mongodb.svg"/>][mongodb]
 [<img align="left" alt="sqlite" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/sqlite.svg"/>][sqlite]<br/>
-
+<hr/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopspereira&theme=dracula)](https://github.com/jussaragranja/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcelopspereira&show_icons=true&theme=dracula)](https://github.com/jussaragranja/)
 
