@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ### Marcelo PS 💻 - Desenvolvedor 
 
+<hr></hr>
+
 ### Sobre mim:
 - :earth_americas: Porto Alegre - Rio Grande do Sull
 - 👨🏿‍🎓  Tecnólogo em Análise e Desenvolvimento de Sistemas - QI
@@ -32,7 +34,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="sqlite" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/sqlite.svg"/>][sqlite]<br/>
 
 <hr></hr>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopspereira&theme=dracula)](https://github.com/jussaragranja/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcelopspereira&show_icons=true&theme=dracula)](https://github.com/jussaragranja/)
